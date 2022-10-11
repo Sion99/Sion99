@@ -1,5 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Sion's%20Github&fontSize=90)
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sion99)](https://github.com/anuraghazra/github-readme-stats)
+
 - 👋 Hi, I’m @Sion99
 - 👀 I’m interested in Computer Programming
 - 🌱 I’m currently learning Data Structure
