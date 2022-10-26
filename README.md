@@ -20,7 +20,9 @@
 - 👀 I’m interested in Computer Programming
 - 🌱 I’m currently learning Data Structure
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me
+	- kmicety1.tistory.com
+	- kmicety1@gmail.com
 
 <!---
 Sion99/Sion99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
