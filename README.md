@@ -23,6 +23,7 @@
 - 📫 How to reach me
 	- kmicety1.tistory.com
 	- kmicety1@gmail.com
+	- yelnets99@naver.com
 
 <!---
 Sion99/Sion99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
