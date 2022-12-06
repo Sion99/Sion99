@@ -12,7 +12,7 @@
 
 
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=sion99&show_icons=true">
+
 
 - 👋 Hi, I’m @Sion99
 - 👀 I’m interested in Computer Programming
