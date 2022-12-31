@@ -16,7 +16,7 @@
 
 - 👋 Hi, I’m @Sion99
 - 👀 I’m interested in Computer Programming
-- 🌱 I’m currently learning Data Structure
+- 🌱 42 Seoul La Piscine 2023
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
 	- kmicety1.tistory.com
