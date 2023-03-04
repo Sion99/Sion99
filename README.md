@@ -16,11 +16,6 @@
 <br>
 
 
+<h3> 📝 Problem Solving </h3>
 
-<h3>🌱 42 Seoul La Piscine 2023 </h3>
-- 2023/01/09 ~ 2023/02/04
--
-<!---
-Sion99/Sion99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![shinsion's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=shinsion)
