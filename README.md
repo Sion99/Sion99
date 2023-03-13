@@ -4,6 +4,8 @@
 <h3> 📮  How to reach me </h3>
 
 <br><h3> 🧑‍💻 Experiences </h3>
+- Kyungpook National University School of CSE (18.03 - )
+- 42Seoul Cadet (23.03 - )
 
 <br><h3> 🛠️ Skills </h3>
 
