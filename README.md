@@ -1,8 +1,10 @@
 
 <h1> 👋 Hi there! </h1>
-I'm currently learning programming @[42seoul](https://42seoul.kr/seoul42/main/view)
+🧑‍💻 I'm currently learning programming @ 42seoul. <br>
+👀 I'm interested in Cloud Engineering & Linux !
 
 <h3> 📮  How to reach me </h3>
+📧 yelnets99@naver.com <br>
 
 <br><h3> 🧑‍💻 Experiences </h3>
 - Kyungpook National University School of CSE (18.03 - )
