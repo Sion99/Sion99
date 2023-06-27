@@ -1,5 +1,6 @@
 
-<h1> 👋 안녕하세요 </h1>
+<h1> 👋 Hi there! </h1>
+I'm currently learning programming @[42seoul](https://42seoul.kr/seoul42/main/view)
 
 <h3> 📮  How to reach me </h3>
 
