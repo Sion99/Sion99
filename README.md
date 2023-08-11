@@ -10,9 +10,6 @@
 - Kyungpook National University School of CSE (18.03 - )
 - 42Seoul Cadet (23.03 - )
 
-<br><h3> 🛠️ Stats </h3>
-![sion99's GitHub stats](https://github-readme-stats.vercel.app/api?username=sion99&count_private=true)
-
 <br><h3> 📝  Problem Solving </h3>
 
 ![shinsion's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=shinsion)
