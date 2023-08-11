@@ -11,7 +11,7 @@
 - 42Seoul Cadet (23.03 - )
 
 <br><h3> 🛠️ Stats </h3>
-[![sion99's GitHub stats](https://github-readme-stats.vercel.app/api?username=sion99&count_private=true)]
+![sion99's GitHub stats](https://github-readme-stats.vercel.app/api?username=sion99&count_private=true)
 
 <br><h3> 📝  Problem Solving </h3>
 
