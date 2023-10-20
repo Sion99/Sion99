@@ -9,6 +9,7 @@
 <br><h3> 🧑‍💻 Experiences </h3>
 - Kyungpook National University School of CSE (18.03 - )
 - 42Seoul Cadet (23.03 - )
+- GDSC KNU (23.09 - )
 
 <br><h3> 📝  Problem Solving </h3>
 
