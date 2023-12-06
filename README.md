@@ -9,7 +9,7 @@
 <br><h3> 🧑‍💻 Experiences </h3>
 - Kyungpook National University School of CSE (18.03 - )
 - 42Seoul Cadet (23.03 - 23.11)
-- 2023 Open Source Contribution Academy (OpenStack, winning [KOIPA Award](https://koipa.or.kr))
+- 2023 Open Source Contribution Academy (OpenStack, winning [KOIPA Award](https://koipa.or.kr), 23.07 - 23.10)
 - GDSC KNU (23.09 - )
 
 <br><h3> 📝  Problem Solving </h3>
